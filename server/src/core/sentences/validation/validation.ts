@@ -16,6 +16,7 @@ import or from './languages/or'
 import ru from './languages/ru'
 import th from './languages/th'
 import tok from './languages/tok'
+import tr from './languages/tr'
 import ur from './languages/ur'
 import uz from './languages/uz'
 import yue from './languages/yue'
@@ -50,6 +51,7 @@ const VALIDATORS: Validators = {
   ru,
   th,
   tok,
+  tr,
   ur,
   uz,
   yue,

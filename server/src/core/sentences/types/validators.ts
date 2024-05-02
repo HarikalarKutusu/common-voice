@@ -16,6 +16,7 @@ const ValidatorLocales = [
   'ru',
   'th',
   'tok',
+  'tr',
   'ur',
   'uz',
   'yue',
